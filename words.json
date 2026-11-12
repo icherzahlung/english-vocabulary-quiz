@@ -1,0 +1,407 @@
+[
+  {
+    "word": "I",
+    "translation": "я",
+    "level": "A1",
+    "topic": "daily_routines",
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "you",
+    "translation": "ты, вы",
+    "level": "A1",
+    "topic": "daily_routines",
+    "part_of_speech": "pronoun"
+  },
+
+  {
+    "word": "wake up",
+    "translation": "просыпаться",
+    "level": "A1",
+    "topic": "daily_routines",
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "brush",
+    "translation": "чистить",
+    "level": "A1",
+    "topic": "daily_routines",
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "commute",
+    "translation": "ездить на работу",
+    "level": "B1",
+    "topic": "daily_routines",
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "procrastinate",
+    "translation": "прокрастинировать",
+    "level": "C1",
+    "topic": "daily_routines",
+    "part_of_speech": "verb"
+  },
+
+  {
+    "word": "cat",
+    "translation": "кот",
+    "level": "A1",
+    "topic": "animals",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "dog",
+    "translation": "собака",
+    "level": "A1",
+    "topic": "animals",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "dolphin",
+    "translation": "дельфин",
+    "level": "A2",
+    "topic": "animals",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "hedgehog",
+    "translation": "ёж",
+    "level": "B1",
+    "topic": "animals",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ornithological",
+    "translation": "орнитологический",
+    "level": "C2",
+    "topic": "animals",
+    "part_of_speech": "adjective"
+  },
+
+  {
+    "word": "apple",
+    "translation": "яблоко",
+    "level": "A1",
+    "topic": "food",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "bread",
+    "translation": "хлеб",
+    "level": "A1",
+    "topic": "food",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "recipe",
+    "translation": "рецепт",
+    "level": "A2",
+    "topic": "food",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ingredient",
+    "translation": "ингредиент",
+    "level": "B1",
+    "topic": "food",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "fermentation",
+    "translation": "ферментация",
+    "level": "C1",
+    "topic": "food",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "airport",
+    "translation": "аэропорт",
+    "level": "A2",
+    "topic": "travel",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "passport",
+    "translation": "паспорт",
+    "level": "A2",
+    "topic": "travel",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "itinerary",
+    "translation": "маршрут поездки",
+    "level": "B2",
+    "topic": "travel",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "expedition",
+    "translation": "экспедиция",
+    "level": "C1",
+    "topic": "travel",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "car",
+    "translation": "автомобиль",
+    "level": "A1",
+    "topic": "transport",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "bus",
+    "translation": "автобус",
+    "level": "A1",
+    "topic": "transport",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "railway",
+    "translation": "железная дорога",
+    "level": "B1",
+    "topic": "transport",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "locomotive",
+    "translation": "локомотив",
+    "level": "C1",
+    "topic": "transport",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "read",
+    "translation": "читать",
+    "level": "A1",
+    "topic": "hobbies",
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "paint",
+    "translation": "рисовать красками",
+    "level": "A2",
+    "topic": "hobbies",
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "photography",
+    "translation": "фотография",
+    "level": "B1",
+    "topic": "hobbies",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "calligraphy",
+    "translation": "каллиграфия",
+    "level": "C1",
+    "topic": "hobbies",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "job",
+    "translation": "работа",
+    "level": "A1",
+    "topic": "work",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "employee",
+    "translation": "сотрудник",
+    "level": "A2",
+    "topic": "work",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "deadline",
+    "translation": "крайний срок",
+    "level": "B1",
+    "topic": "work",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "stakeholder",
+    "translation": "заинтересованная сторона",
+    "level": "C1",
+    "topic": "work",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "table",
+    "translation": "стол",
+    "level": "A1",
+    "topic": "furniture",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "chair",
+    "translation": "стул",
+    "level": "A1",
+    "topic": "furniture",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "wardrobe",
+    "translation": "шкаф",
+    "level": "A2",
+    "topic": "furniture",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "upholstery",
+    "translation": "обивка мебели",
+    "level": "C1",
+    "topic": "furniture",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "knife",
+    "translation": "нож",
+    "level": "A1",
+    "topic": "kitchenware",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "fork",
+    "translation": "вилка",
+    "level": "A1",
+    "topic": "kitchenware",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "saucepan",
+    "translation": "кастрюля",
+    "level": "B1",
+    "topic": "kitchenware",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "colander",
+    "translation": "дуршлаг",
+    "level": "C1",
+    "topic": "kitchenware",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "movie",
+    "translation": "фильм",
+    "level": "A1",
+    "topic": "entertainment",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "concert",
+    "translation": "концерт",
+    "level": "A2",
+    "topic": "entertainment",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "performance",
+    "translation": "представление",
+    "level": "B2",
+    "topic": "entertainment",
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "masterpiece",
+    "translation": "шедевр",
+    "level": "C1",
+    "topic": "entertainment",
+    "part_of_speech": "noun"
+  },
+
+  {
+    "word": "tall",
+    "translation": "высокий",
+    "level": "A1",
+    "topic": "appearance",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "slim",
+    "translation": "стройный",
+    "level": "A2",
+    "topic": "appearance",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "muscular",
+    "translation": "мускулистый",
+    "level": "B1",
+    "topic": "appearance",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "distinguished",
+    "translation": "представительный",
+    "level": "C1",
+    "topic": "appearance",
+    "part_of_speech": "adjective"
+  },
+
+  {
+    "word": "kind",
+    "translation": "добрый",
+    "level": "A1",
+    "topic": "personality",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "honest",
+    "translation": "честный",
+    "level": "A2",
+    "topic": "personality",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "reliable",
+    "translation": "надёжный",
+    "level": "B1",
+    "topic": "personality",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "meticulous",
+    "translation": "педантичный",
+    "level": "C1",
+    "topic": "personality",
+    "part_of_speech": "adjective"
+  },
+
+  {
+    "word": "happy",
+    "translation": "счастливый",
+    "level": "A1",
+    "topic": "emotions",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "angry",
+    "translation": "злой",
+    "level": "A1",
+    "topic": "emotions",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "disappointed",
+    "translation": "разочарованный",
+    "level": "B1",
+    "topic": "emotions",
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "overwhelmed",
+    "translation": "подавленный",
+    "level": "C1",
+    "topic": "emotions",
+    "part_of_speech": "adjective"
+  }
+]
